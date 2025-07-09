@@ -1,0 +1,17 @@
+langchain
+python-dotenv
+langchain-community
+langchain_core 
+streamlit 
+ipykernel
+langchain-groq
+langchain_huggingface
+pymupdf
+sentence-transformers
+faiss-cpu
+langchain_chroma
+pandas 
+duckdb
+chromadb
+pypdf 
+tf-keras
